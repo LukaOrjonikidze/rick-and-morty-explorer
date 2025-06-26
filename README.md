@@ -83,7 +83,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME].git
+    git clone https://github.com/LukaOrjonikidze/rick-and-morty-explorer.git
     ```
 2.  **Navigate to the project directory**
     ```bash
