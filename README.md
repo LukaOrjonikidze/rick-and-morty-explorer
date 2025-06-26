@@ -4,7 +4,7 @@ A responsive Single Page Application (SPA) built with React and TypeScript that 
 
 ### 🚀 Live Demo
 
-**[Rick & Morty Universe Explorer - Live Site]()**
+**[Rick & Morty Universe Explorer - Live Site](https://rick-morty-explorer.netlify.app/)**
 
 ---
 
